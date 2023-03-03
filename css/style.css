@@ -17,6 +17,7 @@
 section{
     padding: 100px;
     color: #111;
+    background-image: linear-gradient(to top right, #171717 ,#171717);
 }
 section h1{
     display: block;
@@ -24,6 +25,8 @@ section h1{
     margin-bottom: 10px;
     margin-left: auto;
     text-align: center;
+    color: 
+    #a98d50;
 }
 section h2{
     display: block;
@@ -31,6 +34,8 @@ section h2{
     margin-bottom: 10px;
     margin-left: auto;
     text-align: center;
+    color: 
+    #a98d50;
 }
 
 section p{
@@ -41,6 +46,8 @@ section p{
     margin-bottom: 100px;
     text-align: center;
     width: 900px;
+    color: 
+    #a98d50;
     
     
 }
