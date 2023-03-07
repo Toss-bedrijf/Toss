@@ -60,7 +60,7 @@ section p{
 #planning{
     display: block;
     margin: auto;
-    width: 30%;
+    width: 50%;
     margin-bottom: 20px;
 }
 
@@ -93,9 +93,8 @@ section p{
 
     #bracket{
         display: block;
-        width: 120%;
+        width: 280px;
         margin-bottom: 20px;
-        
     }
 
     #planning{
